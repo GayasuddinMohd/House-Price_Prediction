@@ -1,1 +1,1 @@
-# House-price-prediction-using-Linear-Regression-Algorithm-Single-Variable
+# House Price Prediction
