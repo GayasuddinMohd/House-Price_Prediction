@@ -15,6 +15,7 @@ This repository is about the House Price Prediction with the help of the Linear 
 * Matplotlib
 * Seaborn
 * Plotly
+* Scikit-Learn
 * Jupyter Notebok
 * Kaggle
 * Statistics
