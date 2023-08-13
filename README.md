@@ -16,8 +16,10 @@ This repository is about the House Price Prediction with the help of the Linear 
 * Seaborn
 * Plotly
 * Jupyter Notebok
+* Kaggle
 * Statistics
 * MS Excel
+* ML Algorithms
 
 # ✿  Dataset  ✿
 * You can download the dataset from the above file in this repository.
