@@ -3,7 +3,7 @@
 # House Price Prediction 
 House price prediction is a classic problem in the field of machine learning and data analysis. In this analysis, we will use the Linear Regression algorithm to predict house prices based on a single variable, typically an attribute that has a strong correlation with the target variable (price). Linear Regression aims to establish a linear relationship between the input variable and the target variable.
 
-# Technologies Used  
+# Skills
 * Python
 * Machine learning
 
